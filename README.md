@@ -4,6 +4,10 @@ Cointegration involves two steps: regressing one time series on the other to get
 
 If the residuals are not stationary, then we are estimating beta. <br/>
 
+Therefore, residuals must be stationary.  <br/>
+
+The cointegration vector captures long term equilibrium relationship.  <br/>
+
 Calculating the percentiles of residuals is a great way to determine outliers that might indicate trading opportunities. <br/>
 For example, if the residuals are far outside certain percentiles (e.g., the 5th or 95th percentile), that could signal that the price relationship is temporarily outside their usual bounds, creating a good chance for mean reversion (i.e., a return to the equilibrium).
 
