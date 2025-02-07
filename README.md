@@ -2,7 +2,7 @@
 
 Cointegration involves two steps: regressing one time series on the other to get the cointegration vector, and then perform an ADF test on the residuals of the regression to check for stationarity. <br/>
 
-If the residuals are not stationary, then we are estimating beta. <br/>
+If the residuals are not stationary, then we are estimating OLS beta (Sensitivity). <br/>
 
 Therefore, residuals must be stationary.  <br/>
 
