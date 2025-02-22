@@ -3,6 +3,7 @@
 <img src = "sc/1740065075355.jpg" alt = "img">
 
 ### Cointegration occurs when two or more non-stationary time series move together in the long run, forming a stationary linear combination.
+<br/>
 
 Cointegration involves two steps: regressing one time series on the other to get the cointegration vector, and then perform an ADF test on the residuals of the regression to check for stationarity. <br/>
 
