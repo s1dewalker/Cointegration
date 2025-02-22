@@ -1,6 +1,6 @@
 ## Cointegration for pairs trading | Nike and Adidas
 
-<img src = "sc/1740065075355.jpg" height = 600 alt = "img">
+<img src = "sc/1740065075355.jpg" alt = "img">
 
 ### Cointegration occurs when two or more non-stationary time series move together in the long run, forming a stationary linear combination.
 
