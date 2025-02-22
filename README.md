@@ -22,6 +22,6 @@ For example, if the residuals are far outside certain percentiles (e.g., the 5th
 
 <img src = "sc/resid_pairs.JPG" width = 1000 alt = "img">
 
-#### [View Python code](https://github.com/s1dewalker/Cointegration/blob/main/py_files/Coint.ipynb)
+### [View Python code](https://github.com/s1dewalker/Cointegration/blob/main/py_files/Coint.ipynb)
 
 
