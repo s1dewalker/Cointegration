@@ -20,7 +20,7 @@ If the residuals are stationary, they fluctuate around a constant mean and do no
 Calculating the percentiles of residuals is a great way to determine outliers that might indicate trading opportunities. <br/>
 For example, if the residuals are far outside certain percentiles (e.g., the 5th or 95th percentile), that could signal that the price relationship is temporarily outside their usual bounds, creating a good chance for mean reversion (i.e., a return to the equilibrium).
 
-<img src = "sc/1740065075355.jpg" alt = "img">
+<img src = "sc/resid_pairs.JPG" alt = "img">
 
 #### [View Python code](https://github.com/s1dewalker/Cointegration/blob/main/py_files/Coint.ipynb)
 
