@@ -11,16 +11,21 @@ If the residuals are not stationary, then we are estimating OLS beta (Sensitivit
 Therefore, residuals must be stationary.  <br/>
 
 The cointegration vector captures long term equilibrium relationship.  <br/>
+#
 
 #### Summary:
 Regression to find the relationship (OLS assumes linear relationship, otherwise residuals will likely be non-stationary). <br/>
 If the residuals are stationary, they fluctuate around a constant mean and do not drift indefinitely. Therefore, the pair is mean-reverting.
+
+#
 
 #### Strategy:
 Calculating the percentiles of residuals is a great way to determine outliers that might indicate trading opportunities. <br/>
 For example, if the residuals are far outside certain percentiles (e.g., the 5th or 95th percentile), that could signal that the price relationship is temporarily outside their usual bounds, creating a good chance for mean reversion (i.e., a return to the equilibrium).
 
 <img src = "sc/resid_pairs.JPG" width = 1000 alt = "img">
+
+<br/>
 
 ### [View Python code](https://github.com/s1dewalker/Cointegration/blob/main/py_files/Coint.ipynb)
 
