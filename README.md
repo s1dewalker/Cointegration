@@ -1,6 +1,11 @@
-## Cointegration for pairs trading | Nike and Adidas
-
 <img src = "sc/1740065075355.jpg" alt = "img">
+
+# Pairs Watch
+Pairs Watch app is a quantitative finance tool that helps users analyze potential pairs trading opportunities.
+<br/>
+
+### Check out the app @ [streamlit.io](https://pairs-watch-hybjopukh8vzgsdgjb5nsw.streamlit.app/)
+#
 
 ### Cointegration occurs when two or more non-stationary time series move together in the long run, forming a stationary linear combination.
 <br/>
@@ -29,5 +34,4 @@ For example, if the residuals are far outside certain percentiles (e.g., the 5th
 <br/>
 
 ### [View Python code](https://github.com/s1dewalker/Cointegration/blob/main/py_files/Coint.ipynb)
-
 
