@@ -1,8 +1,7 @@
 <img src = "sc/1740065075355.jpg" alt = "img">
 
 # Pairs Watch
-Pairs Watch app is a quantitative finance tool that helps users analyze potential pairs trading opportunities.
-<br/>
+Pairs Watch web app is a quantitative finance tool that helps users analyze potential pairs trading opportunities. <br/>
 
 ### Check out the app @ [streamlit.io](https://pairs-watch-hybjopukh8vzgsdgjb5nsw.streamlit.app/)
 #
@@ -10,13 +9,13 @@ Pairs Watch app is a quantitative finance tool that helps users analyze potentia
 ### Cointegration occurs when two or more non-stationary time series move together in the long run, forming a stationary linear combination.
 <br/>
 
-Cointegration involves two steps: regressing one time series on the other to get the cointegration vector, and then perform an ADF test on the residuals of the regression to check for stationarity. <br/>
+- Cointegration involves two steps: regressing one time series on the other to get the cointegration vector, and then perform an ADF test on the residuals of the regression to check for stationarity. <br/>
 
-If the residuals are not stationary, then we are estimating OLS beta (Sensitivity), not a long-term relationship. <br/>
+- If the residuals are not stationary, then we are estimating OLS beta (Sensitivity), not a long-term relationship. <br/>
 
-Therefore, residuals must be stationary.  <br/>
+- Therefore, residuals must be stationary.  <br/>
 
-The cointegration vector captures long term equilibrium relationship.  <br/>
+- The cointegration vector captures long term equilibrium relationship.  <br/>
 #
 
 #### Summary:
