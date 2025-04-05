@@ -3,7 +3,7 @@
 # Pairs Watch
 Pairs Watch web app is a quantitative finance tool that helps users analyze potential pairs trading opportunities. <br/>
 
-### Check out the app @ [streamlit.io](https://pairs-watch-hybjopukh8vzgsdgjb5nsw.streamlit.app/)
+### Check out the app @ [streamlit.app](https://pairs-at-risk-f9sqcqqsmugxtlkpj2cvgr.streamlit.app/)
 #
 
 ### Cointegration occurs when two or more non-stationary time series move together in the long run, forming a stationary linear combination.
